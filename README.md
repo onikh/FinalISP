@@ -1,6 +1,4 @@
-# ScenesShellBasic
+# Pokemiguel
 
-A basic shell to serve as a starting point for using Scenes.
-It includes a MainScene, three Layers, and one Background object
-but is otherwise empty.
+A battle RPG with a fully functional title screen, world map, and battle system. Inspired by Game Boy Advance Pokemon.
 
